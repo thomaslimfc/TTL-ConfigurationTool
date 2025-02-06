@@ -30,7 +30,7 @@ The script allows users to understand how TTL impacts data transmission and netw
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ipv4-ttl-configuration.git
+   git clone https://github.com/thomaslimfc/ipv4-ttl-configuration.git
    
 ## Collaborator:
 - [Thomas Fang-chern Lim](https://www.linkedin.com/in/limfangchern)
