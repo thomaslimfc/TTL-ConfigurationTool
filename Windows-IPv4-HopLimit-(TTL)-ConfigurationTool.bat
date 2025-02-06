@@ -24,7 +24,7 @@ echo                         [4] Exit
 echo                     =============================================
 echo.
 
-<nul set /p=                    Enter your choice (1-4):
+<nul set /p=                    Enter your choice (1-4):  
 set /p choice=
 
 echo.
