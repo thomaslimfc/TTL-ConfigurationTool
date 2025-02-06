@@ -32,3 +32,9 @@ The script allows users to understand how TTL impacts data transmission and netw
    ```bash
    git clone https://github.com/yourusername/ipv4-ttl-configuration.git
    
+## Collaborator:
+- [Thomas Fang-chern Lim](https://www.linkedin.com/in/limfangchern)
+<br>
+Their dedication and expertise made this repository possible, ensuring compatibility and functionality across various components.
+
+---
