@@ -34,4 +34,4 @@ The script allows users to understand how TTL impacts data transmission and netw
    
 ## Collaborator:
 - [Thomas Fang-chern Lim](https://www.linkedin.com/in/limfangchern)
-Their dedication and expertise made this repository possible, ensuring compatibility and functionality across various components.
+<br>Their dedication and expertise made this repository possible, ensuring compatibility and functionality across various components.
